@@ -1,12 +1,18 @@
 # androidLearnnig
-# Q- what is kotlin -- kotlin is a statically type programming language developed by JetBrains , designed  fully interoprable with java . It offers modern features like - null safety , extension functions , and corutines , making Android developedment more concise and expressive.
+# Q- what is kotlin --
+   kotlin is a statically type programming language developed by JetBrains , designed  fully interoprable with java . 
+   It offers modern features like - null safety , extension functions , 
+   and corutines , making Android developedment more concise and expressive.
+
 # Q-- what are the main advantage of using kotlin over java .
 Null Safety : Reduces the risk of NullPonterExceptions.
 Conciseness : Kotlin code is often more compact and easier to read .
 Corutines : Siplifies asynchronous programming .
 Extension Functions : Allows you to add new functions to existing classes without modifying them.
+
 # Q- Explain th concept of couroutines .
 Answer: Coroutines are a Kotlin feature that allows you to write asynchronous, non-blocking code. They enable you to handle long-running tasks (like network calls) in a simpler way using suspend functions, which can be paused and resumed without blocking the thread.
+
 # 5. What are extension functions?
 Answer: Extension functions allow you to "add" new functions to existing classes without modifying their source code. This is useful for enhancing the functionality of libraries or framework classes.
 #6. What is a sealed class?
